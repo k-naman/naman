@@ -1,2 +1,2 @@
-# namanresume.github.com
+# https://k-naman.github.io/naman/ 
 My resume 
